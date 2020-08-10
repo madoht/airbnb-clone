@@ -16,7 +16,7 @@ class CustomUserAdmin(UserAdmin):
                     "avatar",
                     "gender",
                     "bio",
-                    "birthDay",
+                    "birthday",
                     "language",
                     "currency",
                     "superhost",
