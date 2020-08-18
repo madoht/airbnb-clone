@@ -141,3 +141,4 @@ cython_debug/
 # MacOS
 .DS_Store
 uploads/
+photos_seed.zip
